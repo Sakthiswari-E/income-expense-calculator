@@ -4,7 +4,7 @@ A responsive web application to manage your personal finances — track your inc
 
 ## Live Demo
 
-[View Deployed App]([view live](https://1income-expense-calculator.netlify.app/))
+([view live](https://1income-expense-calculator.netlify.app/))
 
 ## Features
 
